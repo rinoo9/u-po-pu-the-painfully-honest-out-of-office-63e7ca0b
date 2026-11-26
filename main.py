@@ -4,9 +4,9 @@
 import os
 
 ENTRY = (
-    "Thank you for your email \u2014 I'm on holiday and not reading this, "
-    "because the inbox will still be here when I return; I'll reply properly "
-    "once I've recovered from coming back to it."
+    "Thank you for your email \u2014 I'm on holiday, deliberately not reading "
+    "it, because my inbox will still be here when I return, and I'll reply "
+    "properly once I've recovered from facing it."
 )
 
 
