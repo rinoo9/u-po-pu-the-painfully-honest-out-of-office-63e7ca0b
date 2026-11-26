@@ -8,4 +8,4 @@ An entry for the [make.fun bounty](https://make.fun/bounty/u-po-pu-the-painfully
 
 `main.py` deterministically writes the reply to `/output/entry.txt`.
 
-> Thank you for your email — I'm on holiday and not reading this, because the inbox will still be here when I return; I'll reply properly once I've recovered from coming back to it.
+> Thank you for your email. I'm away until Monday, ignoring this with the full support of my calendar, my manager, and my sanity.
