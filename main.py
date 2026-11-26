@@ -8,6 +8,10 @@ ENTRY = (
     "the full support of my calendar, my manager, and my sanity."
 )
 
+# The gate allows 1-200 characters; fail loudly instead of shipping a line
+# the judge would never see.
+assert 1 <= len(ENTRY) <= 200, f"entry is {len(ENTRY)} characters, must be 1-200"
+
 
 def main() -> None:
     os.makedirs("/output", exist_ok=True)
